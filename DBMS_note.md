@@ -1,26 +1,21 @@
-# Day 1 - Introduction to DBMS
+# Day 1 – Introduction to DBMS & RDBMS
 
- Learning Points
+## Learning Points
 
-- Today I learned what DBMS is.
-- DBMS is used to store and manage data.
-- I understood why DBMS is better than the file system.
-- DBMS helps to reduce duplicate data.
-- Data can be stored safely and accessed easily.
-- I learned some applications of DBMS like banking, hospitals and colleges.
-- DBMS makes data management easier.
+### DBMS
+- Learned the meaning of DBMS (Database Management System).
+- Understood why DBMS is used instead of the File System.
+- Learned that DBMS helps to store, retrieve, update and delete data efficiently.
+- Understood the advantages of DBMS like reducing duplicate data and improving data consistency.
+- Learned that DBMS is widely used in banking, hospitals, colleges and other applications.
 
- ## Day 2
- 
- Learning Points
+### RDBMS
+- Learned the meaning of RDBMS (Relational Database Management System).
+- Understood that data is stored in the form of tables.
+- Learned about rows and columns in a table.
+- Understood the importance of Primary Key and Foreign Key.
+- Learned how relationships are maintained between different tables.
 
-- Today I learned the difference between File System and DBMS.
-- File System is not suitable for handling large amounts of data.
-- DBMS helps to reduce data redundancy.
-- I understood the problems in the File System like duplicate data and inconsistency.
-- DBMS provides better security and data sharing.
-- Multiple users can access the database at the same time.
-- I learned the role of DBA (Database Administrator).
-- DBMS is easy to maintain and manage compared to the File System.
+## My Understanding
 
-- I understood why most companies prefer DBMS instead of the File System.
+DBMS makes data management simple and secure. RDBMS extends DBMS by storing related data in tables and connecting them using keys, making data retrieval more efficient.
